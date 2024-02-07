@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FrontEnd-POS:war">
+    <output-path>$PROJECT_DIR$/../FrontEnd-POS/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FrontEnd-POS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FrontEnd-POS-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FrontEnd-POS:war exploded" />
+    </root>
+  </artifact>
+</component>
