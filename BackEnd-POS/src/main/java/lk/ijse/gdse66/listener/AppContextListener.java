@@ -1,12 +1,12 @@
 package lk.ijse.gdse66.listener;
 
-import org.apache.commons.dbcp2.BasicDataSource;
+        import org.apache.commons.dbcp2.BasicDataSource;
 
-import javax.servlet.ServletContext;
-import javax.servlet.ServletContextEvent;
-import javax.servlet.ServletContextListener;
-import javax.servlet.annotation.WebListener;
-import java.sql.SQLException;
+        import javax.servlet.ServletContext;
+        import javax.servlet.ServletContextEvent;
+        import javax.servlet.ServletContextListener;
+        import javax.servlet.annotation.WebListener;
+        import java.sql.SQLException;
 
 @WebListener
 public class AppContextListener implements ServletContextListener {
@@ -39,3 +39,4 @@ public class AppContextListener implements ServletContextListener {
         }
     }
 }
+

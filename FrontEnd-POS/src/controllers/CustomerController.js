@@ -31,7 +31,7 @@ function generateCustomerID() {
 }
 
 /**
- * Button Add New Customer
+ * Button add new Customer
  * */
 
 $("#btnCustomerSave").click(function () {
