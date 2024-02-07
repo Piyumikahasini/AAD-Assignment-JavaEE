@@ -225,14 +225,11 @@ public class CustomerServlet extends HttpServlet {
             rjo.add("message", e.getLocalizedMessage());
             rjo.add("data", "");
             resp.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
-//            resp.getWriter().print(rjo.build());
+            resp.getWriter().print(rjo.build());
 
         }
 
     }
-    /*
-    Customer Delete Option
-     */
 
     @Override
     protected void doDelete(HttpServletRequest req, HttpServletResponse resp) throws IOException {
