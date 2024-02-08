@@ -19,7 +19,7 @@ Functions :-	Functions :-
 
 ✅User can Save, Search, Update, Delete Customer	
 
-✅User can Save, Search, Update, Delete Item	
+✅User can Save, Search, Update, Delete Items
 
 ✅User can manage Orders	
 
