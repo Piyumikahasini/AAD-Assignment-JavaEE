@@ -17,7 +17,7 @@ AAD-Assignment-JavaEE
 
 Functions :-	Functions :-
 
-✅User can Save, Search, Update, Delete Customer	
+✅User can Save, Search, Update, Delete Customers
 
 ✅User can Save, Search, Update, Delete Items
 
