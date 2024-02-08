@@ -1,4 +1,4 @@
-AAD-Assignment-JavaEE	AAD-Assignment-JavaEE
+AAD-Assignment-JavaEE
 
 
 ✅FrontEnd - HTML, CSS, JavaScript, JQuery, Bootstrap
